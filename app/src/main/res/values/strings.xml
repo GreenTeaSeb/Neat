@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TranslationTest</string>
+    <string name="CHANNEL_NAME">projectionChannel</string>
+</resources>
